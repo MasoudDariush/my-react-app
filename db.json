@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "9be5",
+      "title": "dh",
+      "desc": "dfh",
+      "completed": false
+    },
+    {
+      "id": "1b84",
+      "title": "dfh",
+      "desc": "fdh",
+      "completed": false
+    },
+    {
+      "id": "afe9",
+      "title": "سشثلفس",
+      "desc": "یلسیلسیل",
+      "completed": false
+    },
+    {
+      "id": "df9d",
+      "title": "uil",
+      "desc": "uil",
+      "completed": false
+    },
+    {
+      "id": "01a0",
+      "title": "u",
+      "desc": "uil",
+      "completed": false
+    }
+  ]
+}
